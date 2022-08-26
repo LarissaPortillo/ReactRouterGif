@@ -1,3 +1,10 @@
+
+# when in the right folder run
+```
+npm i 
+```
+# to retrieve all the dependencies installed for this project
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
