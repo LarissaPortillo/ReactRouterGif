@@ -4,6 +4,7 @@
 npm i 
 ```
 # to retrieve all the dependencies installed for this project
+# remember to change api link in app.js so that it has your own api key
 
 # Getting Started with Create React App
 
